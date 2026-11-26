@@ -1,0 +1,12 @@
+# Godot 4 関連の生成・キャッシュファイル
+.godot/
+*.translation
+*.import
+
+# エクスポート出力先（必要に応じて変更）
+export/
+builds/
+
+# macOS / Linux のシステムファイル
+.DS_Store
+Thumbs.db
